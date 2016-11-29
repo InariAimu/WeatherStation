@@ -3,11 +3,11 @@
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 
-const char* ssid     = "Kaname_Aimu";
-const char* password = "iAsuka1204";
+const char* ssid     = "yourssid";
+const char* password = "yourpassword";
 
-const char* device_id = "964";
-const char* api_id = "2faab7d03";
+const char* device_id = "yourdeviceid";
+const char* api_id = "yourapiid";
 const char* host = "www.bigiot.net";
 //const char* host = "192.168.1.100";
 
